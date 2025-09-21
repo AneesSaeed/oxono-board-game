@@ -7,9 +7,13 @@
 
 ---
 
-# oxono-board-game
-Educational board game project in JavaFX. Developed to practice software architecture (MVC), design patterns (Command, Observer), and clean objec>
+# Oxono Board Game
+Educational board game project in **Java (JavaFX)**.  
+Developed to practice **software architecture (MVC)**,  
+**design patterns (Command, Observer)**,  
+and **clean object-oriented programming**.
 
+---
 
 ## Some screenshots from the game play
 
