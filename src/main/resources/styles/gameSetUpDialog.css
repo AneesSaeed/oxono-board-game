@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Press Start 2P';
+    src: url('fonts/myFont.ttf');
+}
+
+/* === Reusable Styles === */
+.red-background {
+    -fx-background-color: #fc0c66;
+}
+
+.green-background {
+    -fx-background-color: #34ae34;
+}
+/* === Reusable Styles ends here === */
+
+.grid-pane {
+    -fx-font-size: 16;
+    -fx-background-color: #643b7d;
+    -fx-text-fill: white;
+}
+
+.font-style {
+    -fx-font-family: 'Press Start 2P';
+    -fx-text-fill: white;
+}
+
